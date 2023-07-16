@@ -1,0 +1,19 @@
+@media screen and (max-width: 690px) {
+
+.main-nav{
+    flex-direction: column;
+}
+.company-logo img{
+margin-left: 40vw;
+}
+
+.nav-links  ul{
+margin-left: 20vw;
+margin-bottom: 20px;
+}
+.search-bar{
+width: 29em;
+margin-left: 6px;
+}
+
+}
